@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 
-<div style='color:black;'>
+## Welcome
 Welcome to the Official OWASP Chapter for Islamabad, Pakistan.
 
 We are a coalition of developers, security professionals, students, and technology leaders united by a common mission: to make application security visible and integral to the software ecosystem of Islamabad and beyond. As the nation's digital capital, Islamabad drives innovation; our purpose is to ensure that innovation is secure by design.
@@ -26,23 +26,6 @@ What We Do:
 Join us to learn, share, and contribute. Whether you're a seasoned AppSec professional or just beginning your security journey, you have a place here. Together, we can harden the code that powers our future.
 
 Connect. Learn. Secure.
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
-## Welcome
-Include some information here about your chapter
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
