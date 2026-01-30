@@ -10,7 +10,7 @@ meetup-group:
 ---
 
 ## Welcome
-Welcome to the Official OWASP Chapter for Islamabad, Pakistan. Pakistan
+Welcome to the Official OWASP Chapter for Islamabad, Pakistan. 
 
 We are a coalition of developers, security professionals, students, and technology leaders united by a common mission: to make application security visible and integral to the software ecosystem of Islamabad and beyond. As the nation's digital capital, Islamabad drives innovation; our purpose is to ensure that innovation is secure by design.
 
@@ -34,7 +34,10 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+## Next Meeting/Event
+Cybersecurity Awareness & Tech Talk Session 
+9th Feburary, 2026 at SEECS Auditorium, NUST, Islamabad
+<!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
